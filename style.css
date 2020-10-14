@@ -1,3 +1,9 @@
+body {
+    background-image: linear-gradient(rgba(252, 252, 252, 0.3),rgba(252, 252, 252, 0.3)), url('images/background.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 .container {
     max-width: 600px;
 }
